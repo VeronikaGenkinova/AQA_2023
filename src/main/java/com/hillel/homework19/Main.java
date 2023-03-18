@@ -1,2 +1,4 @@
-package com.hillel.homework19;public class Main {
+package com.hillel.homework19;
+
+public class Main {
 }
